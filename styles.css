@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+div{
+	border:2px solid black;
+	width: 200px;
+    height:200px;
+	position:absolute;
+	transform: translate(50%,50%);
+	background-color:lightblue	
+}
+p{
+	text-align:center;
+	color:purple;
+	padding-top:50%
+	
+}
+	
+}
